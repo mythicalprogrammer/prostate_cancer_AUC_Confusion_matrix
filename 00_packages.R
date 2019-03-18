@@ -13,5 +13,5 @@ ipak <- function(pkg){
 }
 
 # usage
-packages <- c("pROC")
+packages <- c("pROC","readr")
 ipak(packages)
