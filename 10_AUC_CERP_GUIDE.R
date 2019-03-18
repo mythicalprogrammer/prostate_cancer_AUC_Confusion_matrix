@@ -14,3 +14,5 @@ truth <- as.numeric(truth)
 
 roc_obj <- roc(truth, pred)
 auc(roc_obj)
+
+
